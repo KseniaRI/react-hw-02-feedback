@@ -20,7 +20,9 @@ export const StatisticItem = styled.p`
     }
     & svg:hover,
     & svg:focus {
-          stroke-width: 1px;  
+          /* stroke-width: 1px;  */
+          background-color: skyblue; 
+          border-radius:50%;
         }
 `
 
